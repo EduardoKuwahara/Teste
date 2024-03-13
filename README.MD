@@ -5,3 +5,4 @@
 - Ovo
 - Queijo
 - Pão
+- Meia
