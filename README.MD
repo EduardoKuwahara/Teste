@@ -1,5 +1,5 @@
 # Teste teste teste
-## Conflito conflito conflito
+## Conflito conflito conflito.
 
 - Leite
 - Ovo
